@@ -21,11 +21,11 @@
     <!-- project properties -->
     <dependencies>
         <!-- Spring Core -->
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-core</artifactId>
-            <version>${spring.version}</version>
-        </dependency>
+<dependency>
+  <groupId>org.springframework</groupId>
+  <artifactId>spring-core</artifactId>
+  <version>[5.2.19,)</version>
+</dependency>
 
         <!-- Spring Web -->
 <dependency>
